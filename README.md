@@ -31,5 +31,5 @@ A FastAPI-based application for monitoring data drift in real-time. It receives 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/drift-monitoring.git
-   cd drift-monitoring
+   git clone [https://github.com/<your-username>/drift-monitoring.git](https://github.com/saul-villarados/FastAPI-Drift-Monitoring-System.git
+   cd FastAPI-Drift-Monitoring-System
