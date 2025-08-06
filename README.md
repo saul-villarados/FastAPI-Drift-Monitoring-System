@@ -33,3 +33,17 @@ A FastAPI-based application for monitoring data drift in real-time. It receives 
    ```bash
    git clone https://github.com/saul-villarados/FastAPI-Drift-Monitoring-System.git
    cd FastAPI-Drift-Monitoring-System
+   ```
+### Try it Out!!!
+```bash
+ curl -X POST "http://localhost:8000/data/" \
+-H "Content-Type: application/json" \
+-d '{
+  "size_sqft": 4500,
+  "bedrooms": 2,
+  "bathrooms": 1.0,
+  "neighborhood": "D",
+  "age_years": 100
+}' 
+
+```
