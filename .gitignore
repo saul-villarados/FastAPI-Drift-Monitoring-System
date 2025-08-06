@@ -1,0 +1,39 @@
+test_ref/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos de entorno
+.env
+.env.local
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de base de datos (si los hay)
+*.db
+*.sqlite3
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de log
+*.log
+
+# Archivos de datos grandes (opcional)
+data/
