@@ -9,7 +9,7 @@ A FastAPI-based application for monitoring data drift in real-time. It receives 
 <img width="1920" height="843" alt="mongo_drift" src="https://github.com/user-attachments/assets/2ca14a68-cfb1-43e3-95fb-429d752bc291" />
 ## Features
 
-- Real-time Data Drift Detection
+- Real-time data drift detection
 - Slack alerts
 - MongoDB storage
 - Simple drift detection algorithm (Z-score for numerical features, new categories for categorical features)
